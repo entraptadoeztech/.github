@@ -9,7 +9,7 @@
 <li>Female</li>
 <h3>Loves:</h3>
 <li>Coding</li>
-<li>Html, css, JS(partly)!</li>
+<li>HTML, CSS, JS(partly)!</li>
 <li>Computer networking(learning CCNA level things and also <strong>Subnetting😱</strong>)</li>
 <li>Music(I play the clarinet)</li>
 <li>Art and drawing</li>
