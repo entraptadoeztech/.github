@@ -17,3 +17,6 @@
 <li>Script kiddies</li>
 <li>Bad people</li>
 <li>racism or any other kind of hate</li>
+<h3>Contact me!!!</h3>
+<p>You can DM me on discord if you have any questions!</p>
+> <a href = "">My discord</a>
