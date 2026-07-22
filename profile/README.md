@@ -21,3 +21,5 @@
 <p>You can DM me on discord if you have any questions!</p>
 > <a href = "https://discord.com/users/1314751216739291156
 ">My discord</a>
+<br>
+> <a href = "https://entraptas-secret-project.neocities.org">My neocities website!</a>
