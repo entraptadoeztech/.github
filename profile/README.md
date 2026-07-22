@@ -23,11 +23,11 @@
 <li>Racism or any other kind of hate</li>
 <h3>Contact me!!!</h3>
 <p>You can DM me on discord if you have any questions!</p>
- <a href = "https://discord.com/users/1314751216739291156
+˚₊ · »-♡→ <a href = "https://discord.com/users/1314751216739291156
 ">My discord</a>
 <br>
 <br>
- <a href = "https://entraptas-secret-project.neocities.org">My neocities website!</a>
+ ˚₊ · »-♡→ <a href = "https://entraptas-secret-project.neocities.org">My neocities website!</a>
 <br>
 <br>
 ︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶
