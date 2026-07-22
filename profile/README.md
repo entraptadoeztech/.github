@@ -23,4 +23,4 @@
 ">My discord</a>
 <br>
 <br>
-----><a href = "https://entraptas-secret-project.neocities.org">My neocities website!</a>
+-----> <a href = "https://entraptas-secret-project.neocities.org">My neocities website!</a>
