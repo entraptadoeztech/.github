@@ -30,7 +30,7 @@
  ˚₊ · »-♡→ <a href = "https://entraptas-secret-project.neocities.org">My neocities website!</a>
 <br>
 <br>
- <h3>My stats</h3>
+ <h3>∘☽༓☾∘My stats∘☽༓☾∘</h3>
  <p align="center">
   <img src="https://metrics.lecoq.io/entraptadoeztech" alt="GitHub Metrics" width="600">
 </p>
