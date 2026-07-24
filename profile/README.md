@@ -27,7 +27,10 @@
 ">My discord</a>
 <br>
 <br>
- ˚₊ · »-♡→ <a href = "https://entraptas-secret-project.neocities.org">My neocities website!</a>
+ <a href = "https://entraptas-secret-project.neocities.org">
+ <img align = "center" src= "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0229.gif">
+ </a>
+ <p align = "left"><i>My website</i></p>
 <br>
 <br>
  <h3>∘☽༓☾∘My stats∘☽༓☾∘</h3>
