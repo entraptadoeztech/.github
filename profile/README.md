@@ -22,13 +22,15 @@
 <li>Bad people</li>
 <li>Racism or any other kind of hate</li>
 <h3>Contact me!!!</h3>
-<p>You can DM me on discord if you have any questions!</p>
-˚₊ · »-♡→ <a href = "https://discord.com/users/1314751216739291156
-">My discord</a>
+<p>You can contact me on any of these websites below!</p>
+<a href = "https://discord.com/users/1314751216739291156
+">
+ <img align = "center" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0187.gif">
+</a>
 <br>
-<br>
+ <p align = "left">My discord!</p>
  <a href = "https://entraptas-secret-project.neocities.org">
- <img align = "center" src= "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0229.gif">
+ <img align = "down" src= "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0229.gif">
  </a>
  <p align = "left"><i>My website</i></p>
 <br>
