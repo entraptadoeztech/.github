@@ -1,4 +1,4 @@
-## 🧪welcome to Entrapta's Lab!🧪
+## 🧪Welcome to Entrapta's Lab!🧪
 <img src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0781.gif">
 <b><h2>A warning to all students</b></h2>
 <p><b>Don't</b> use random proxies!!!!!!!!</p>
