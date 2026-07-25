@@ -1,4 +1,4 @@
-## 🧪welcome to entrapta's Lab!🧪
+## 🧪welcome to Entrapta's Lab!🧪
 <img src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0781.gif">
 <b><h2>A warning to all students</b></h2>
 <p><b>Don't</b> use random proxies!!!!!!!!</p>
@@ -35,6 +35,7 @@
  <p align = "left"><i>My website</i></p>
 <br>
 <br>
+ <img align = "right" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0796.gif" style = "width:80px;, height:auto;">
  <h3>∘☽༓☾∘My stats∘☽༓☾∘</h3>
  <p align="center">
   <img src="https://metrics.lecoq.io/entraptadoeztech" alt="GitHub Metrics" width="600">
