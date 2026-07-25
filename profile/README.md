@@ -36,9 +36,9 @@
 <br>
 <br>
  <img align = "right" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0796.gif" style = "width:80px;, height:auto;">
- <h3>∘☽༓☾∘My stats∘☽༓☾∘</h3>
- <p align="center">
+ <img align = "left" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0797.gif" style = "width:80px; height:auto;">
+ <h3 align = "center">My stats</h3>
   <img src="https://metrics.lecoq.io/entraptadoeztech" alt="GitHub Metrics" width="600">
-</p>
+</img>
 ︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶
 ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 .
