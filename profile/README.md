@@ -22,20 +22,8 @@
 <li>Script kiddies</li>
 <li>Bad people</li>
 <li>Racism or any other kind of hate</li>
-<h3>Contact me!!!</h3>
-<p>You can contact me on any of these websites below!</p>
-<a href = "https://discord.com/users/1314751216739291156
-">
+<h3>GIFS!!</h3>
  <img align = "center" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0187.gif">
-</a>
-<br>
- <p align = "left">My discord!</p>
- <a href = "https://entraptas-secret-project.neocities.org">
- <img align = "down" src= "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0229.gif">
- </a>
- <p align = "left"><i>My website</i></p>
-<br>
-<br>
  <img align = "right" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0796.gif" style = "width:80px;, height:auto;">
  <img align = "left" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0797.gif" style = "width:80px; height:auto;">
  <h3 align = "center">My stats</h3>
