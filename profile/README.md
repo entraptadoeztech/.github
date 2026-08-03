@@ -24,6 +24,8 @@
 <li>Racism or any other kind of hate</li>
 <h3>GIFS!!</h3>
  <img align = "center" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0187.gif">
+ <h3>My web domain!</h3>
+ <a href = "https://">My preppy website</a>
  <img align = "right" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0796.gif" style = "width:80px;, height:auto;">
  <img align = "left" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0797.gif" style = "width:80px; height:auto;">
  <h3 align = "center">My stats</h3>
