@@ -26,6 +26,7 @@
  <img align = "center" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0187.gif">
  <h3>My web domain!</h3>
  <a href = "https://git.entraptadoeztech.nya.je/">My preppy website</a>
+ 
 And also join my [org!](https://github.com/The-Space-Outlaws)
  
 ### My message to UBG devs rn
