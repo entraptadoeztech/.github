@@ -30,7 +30,7 @@
 And also join my [org!](https://github.com/The-Space-Outlaws)
  
 ### My message to UBG devs rn
-I have been told that GitHub is flagging UBG websites and their assets, I’ll see why they have been doing this and figure out how to revive your assets! Love, entrapta(support FOSS guys)
+I have been told that GitHub is flagging UBG websites and their assets, I’ll see why they have been doing this and figure out how to revive your assets! Love, entrapta<b>(support FOSS guys!)</b>
 <br>
 
 <h3 align = "center"> POV: your backend is down</h3>
