@@ -25,7 +25,7 @@
 <h3>GIFS!!</h3>
  <img align = "center" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0187.gif">
  <h3>My web domain!</h3>
- <a href = "http://entraptadoeztech.nya.je/">My preppy website</a>
+ <a href = "https://git.entraptadoeztech.nya.je/">My preppy website</a>
 
  and also join my [org!](https://github.com/The-Space-Outlaws)
  <img align = "right" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0796.gif" style = "width:80px;, height:auto;">
