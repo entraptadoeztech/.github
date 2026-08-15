@@ -29,7 +29,7 @@
 And also join my [org!](https://github.com/The-Space-Outlaws)
  
 ### My message to UBG devs rn
-I have been told that GitHub is flagging UBG website and their assets, I’ll see why they have been doing this and figure out how to revive your assets! Love, entrapta(support FOSS guys)
+I have been told that GitHub is flagging UBG websites and their assets, I’ll see why they have been doing this and figure out how to revive your assets! Love, entrapta(support FOSS guys)
 <br>
  <img align = "right" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0796.gif" style = "width:80px;, height:auto;">
  <img align = "left" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0797.gif" style = "width:80px; height:auto;">
