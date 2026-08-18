@@ -35,7 +35,8 @@ I have been told that GitHub is flagging UBG websites and their assets, I’ll s
 
 <h3 align = "center"> POV: your backend is down</h3>
 <img align = "center" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_1064.gif">
-<br>
+<h3>Check out my current projects!</h3>
+<a href = "https://github.com/entraptadoeztech/T1AtQlJJTkctQkFDSy1GM04/tree/main">My current project <i>on this account</i></a>
  <img align = "right" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0796.gif" style = "width:80px;, height:auto;">
  <img align = "left" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0797.gif" style = "width:80px; height:auto;">
  <h3 align = "center">My stats</h3>
