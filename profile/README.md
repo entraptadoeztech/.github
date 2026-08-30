@@ -13,7 +13,8 @@
 <li>Female</li>
 <h3>★. Loves .★:</h3>
 <li>Coding</li>
- <li>Genocide jack/syo</li>
+ <li>Genocide jack/syo ^0^</li>
+ <img src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_1155.gif">
 <li>Porting websites and games</li>
 <li>HTML, CSS, JS(partly)!</li>
 <li>Computer networking(learning CCNA level things and also <strong>Subnetting😱</strong>)</li>
