@@ -30,12 +30,8 @@
  <a href = "https://git.entraptadoeztech.nya.je/">My preppy website</a>
  
 And also join my [org!](https://github.com/The-Space-Outlaws)
- 
-### My message to UBG devs rn
-I have been told that GitHub is flagging UBG websites and their assets, I’ll see why they have been doing this and figure out how to revive your assets! Love, entrapta<b>(support FOSS guys!)</b>
-<br>
 <h3>Check out my current projects!</h3>
-<a href = "https://github.com/entraptadoeztech/T1AtQlJJTkctQkFDSy1GM04/tree/main">My current project <i>on this account</i></a>
+<a href = "https://github.com/entraptadoeztech/protoOS/tree/main">My current project <i>on this account</i></a>
  <img align = "right" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0796.gif" style = "width:80px;, height:auto;">
  <img align = "left" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0797.gif" style = "width:80px; height:auto;">
  <h3 align = "center">My stats</h3>
