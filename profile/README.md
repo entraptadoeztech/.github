@@ -34,7 +34,6 @@ And also join my [org!](https://github.com/The-Space-Outlaws)
 <a href = "https://github.com/entraptadoeztech/protoOS/tree/main">My current project <i>on this account</i></a>
  <img align = "right" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0796.gif" style = "width:80px;, height:auto;">
  <img align = "left" src = "https://raw.githubusercontent.com/entraptadoeztech/.github/refs/heads/main/profile/img/IMG_0797.gif" style = "width:80px; height:auto;">
- <a href="https://discord.com/users/1314751216739291156"><img src="https://lanyard.cnrad.dev/api/1314751216739291156?showDisplayName=true&theme=dark" /></a>
 <br>
 ︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶
 ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 .
